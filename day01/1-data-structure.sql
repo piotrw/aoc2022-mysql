@@ -1,0 +1,3 @@
+CREATE TABLE `day01` (
+    `value` INT(10) NULL DEFAULT NULL
+);
